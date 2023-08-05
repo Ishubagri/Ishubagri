@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Ishubagri
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- ✨ You can reach me with the help of my data
+- 👑 you can try some work with me
+- 🌹 I have to prove the world that i am the queen
+- 
+<!---
+Ishubagri/Ishubagri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
